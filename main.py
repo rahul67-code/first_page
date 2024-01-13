@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
     # ---- HEADER SECTION ----
     with st.container():
-        st.subheader("Hi, I am Rahul👋🏿")
+        st.subheader("Hi, I am Rahul")
         st.title("A Data Analyst From INDIA")
         st.write("I am passionate about using Python to make settings more efficient and effective....")
         st.write("[Learn More >](https://.com)")
